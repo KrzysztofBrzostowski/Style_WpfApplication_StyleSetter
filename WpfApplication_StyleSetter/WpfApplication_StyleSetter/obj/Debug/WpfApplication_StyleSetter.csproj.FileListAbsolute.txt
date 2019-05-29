@@ -1,0 +1,13 @@
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\bin\Debug\WpfApplication_StyleSetter.exe.config
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\bin\Debug\WpfApplication_StyleSetter.exe
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\bin\Debug\WpfApplication_StyleSetter.pdb
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\obj\Debug\WpfApplication_StyleSetter.csprojResolveAssemblyReference.cache
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\obj\Debug\MainWindow.baml
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\obj\Debug\MainWindow.g.cs
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\obj\Debug\App.g.cs
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\obj\Debug\WpfApplication_StyleSetter_MarkupCompile.cache
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\obj\Debug\WpfApplication_StyleSetter.g.resources
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\obj\Debug\WpfApplication_StyleSetter.Properties.Resources.resources
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\obj\Debug\WpfApplication_StyleSetter.csproj.GenerateResource.Cache
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\obj\Debug\WpfApplication_StyleSetter.exe
+c:\users\krzysztof\documents\visual studio 2013\Projects\WpfApplication_StyleSetter\WpfApplication_StyleSetter\obj\Debug\WpfApplication_StyleSetter.pdb
